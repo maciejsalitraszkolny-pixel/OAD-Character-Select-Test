@@ -4,5 +4,8 @@ public enum CharacterClass
 {
     Warrior = 1,
     Mage = 2,
-    Rogue = 3
+    Rouge = 3,
+    Healler = 4,
+    Killer = 5,
+    Archer = 6
 }
